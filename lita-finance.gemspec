@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-finance"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["Samuel Carlsson"]
   spec.email         = ["samuel@luxnet.se"]
   spec.description   = %q{Financial data handler for Lita}
   spec.summary       = %q{Financial data handler for Lita}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ksamc/lita-finance"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
